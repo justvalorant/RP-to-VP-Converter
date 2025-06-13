@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+* {
+  cursor: url("/images/custom-cursor.png"), auto;
+}
+
+a,
+button,
+[role="button"] {
+  cursor: url("/images/custom-cursor.png"), pointer;
+}
