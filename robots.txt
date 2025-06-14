@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://justvalorant.github.io/RP-to-VP-Converter/sitemap.xml
