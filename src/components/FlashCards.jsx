@@ -6,49 +6,49 @@ const products = [
     name: "Desk Mat (Valorant 🎮)",
     image:
       "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/71aNzCq6xmL._SY450_.jpg",
-    link: "https://amzn.to/4e1Q57O",
+    link: "https://amzn.to/3To9UfR",
   },
   {
     id: 2,
     name: "Valo Stickers 📜",
     image:
       "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/71kCqwNQjBL._SX569_.jpg",
-    link: "https://amzn.to/4dXuUDM",
+    link: "https://amzn.to/3ZzqE7A",
   },
   {
     id: 3,
     name: "Desk Mat (Cypher 📸)",
     image:
       "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/61QceZe77lL._SY450_.jpg",
-    link: "https://amzn.to/4n0k4kp",
+    link: "https://amzn.to/43Li48n",
   },
   {
     id: 4,
     name: "Desk Mat (Cyberpunk)",
     image:
       "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/71sT0OXXDgL._SL1500_.jpg",
-    link: "https://amzn.to/4kFZ29q",
+    link: "https://amzn.to/4kS2duD",
   },
   {
     id: 5,
     name: "Desk Mat (GTA VI 🚗)",
     image:
       "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/71Ekqe9pwfL._SY450_.jpg",
-    link: "https://amzn.to/3FY9Dx5",
+    link: "https://amzn.to/3To9SVh",
   },
   {
     id: 6,
     name: "Mouse I use",
     image:
       "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/61UxKvJhh2L._SY450_.jpg",
-    link: "https://amzn.to/4lassfL",
+    link: "https://amzn.to/3SUwLj5",
   },
   {
     id: 7,
     name: "Keyboard I use",
     image:
       "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/81F6UVCPmTL._SL1500_.jpg",
-    link: "https://amzn.to/3HCTKgh",
+    link: "https://amzn.to/44113FN",
   },
   {
     id: 8,
